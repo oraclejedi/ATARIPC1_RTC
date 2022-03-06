@@ -13,4 +13,4 @@ The DS1216E is no longer available.  All existing units now have expired batteri
 
 NOTE:  Since completing the project I have realized the user djos has also recreated the DS1216E with a focus on Tandy PC compatibles, and did so before my work on this project.   The solutions are very similar.
 
-NOTE:  The SmartWatch software can be downloaded from https://www.brutman.com/PCjr/DS1216E.html
+NOTE:  The SmartWatch software can be downloaded from https://github.com/freitz85/smwclock
