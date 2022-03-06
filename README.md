@@ -12,3 +12,5 @@ SmartWatch software was written for the PC to use the DS1216E to store and set t
 The DS1216E is no longer available.  All existing units now have expired batteries which cannot be replaced. This project recreates the DS1216E using modern parts and an externally connected battery that can be easily replaced.
 
 NOTE:  Since completing the project I have realized the user jdos has also recreated the DS1216E with a focus on Tandy PC compatibles, and did so before my work on this project.   The solutions are very similar.
+
+NOTE:  The SmartWatch software can be downloaded from https://www.brutman.com/PCjr/DS1216E.html
